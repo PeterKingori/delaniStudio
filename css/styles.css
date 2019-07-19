@@ -31,3 +31,20 @@
 .card-img {
 	border-radius: 0;
 }
+
+.form-control {
+	background-color: transparent;
+	border-radius: 0;
+}
+
+.form-control::placeholder {
+	color: white;
+}
+
+.user-input {
+	width: 70%;
+	margin:auto;
+}
+
+
+
