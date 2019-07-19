@@ -9,6 +9,11 @@
 	margin-top: 8rem;
 }
 
-.about {
-	background: transparent;
+.services {
+	background-image: url(../img/backgrounds/s_image.jpg);
+	background-size: cover;
+	padding-top: 7rem;
+	padding-bottom: 7rem;
 }
+
+
