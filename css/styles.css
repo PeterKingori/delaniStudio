@@ -1,0 +1,10 @@
+.welcome {
+	background-image: url(../img/backgrounds/h_img.jpg);
+	background-size: cover;
+	height: 100vh;
+	padding-top: 14rem;
+}
+
+#mouse {
+	margin-top: 8rem;
+}
