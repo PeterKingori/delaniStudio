@@ -20,3 +20,14 @@
 	padding-bottom: 7rem;
 }
 
+.contact {
+	background-image: url(../img/backgrounds/c_image.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 80vh;
+}
+
+.card-img {
+	border-radius: 0;
+}
