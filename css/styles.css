@@ -46,5 +46,16 @@
 	margin:auto;
 }
 
+#design-text {
+	display: none;
+}
+
+#dev-text {
+	display: none;
+}
+
+#product-text {
+	display: none;
+}
 
 
