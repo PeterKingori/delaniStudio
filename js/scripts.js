@@ -7,5 +7,8 @@ jQuery(document).ready(function () {
 		jQuery('#dev-text').toggle();
 		jQuery('#dev-img').toggle();
 	});
-	
+	$('div#product').click(function() {
+		$('#product-text').toggle();
+		$('#product-img').toggle();
+	});	
 });
