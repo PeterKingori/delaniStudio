@@ -14,4 +14,9 @@ jQuery(document).ready(function () {
 	jQuery('img.img1').hover(function () {
 		jQuery(this).toggleClass('opaque1');
 	});
+	jQuery('div.work1').hover(function () {
+		jQuery('div.project1').toggle();
+		jQuery('img.img1').toggleClass('opaque2');
+	})
+
 });
