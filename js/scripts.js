@@ -11,12 +11,29 @@ jQuery(document).ready(function () {
 		jQuery('#product-text').toggle();
 		jQuery('#product-img').toggle();
 	});
-	jQuery('img.img1').hover(function () {
-		jQuery(this).toggleClass('opaque1');
-	});
-	jQuery('div.work1').hover(function () {
-		jQuery('div.project1').toggle();
-		jQuery('img.img1').toggleClass('opaque2');
-	})
 
+	jQuery('div.project1').hover(function() {
+		jQuery('div.projectName1').toggle();
+	});
+	jQuery('div.project2').hover(function() {
+		jQuery('div.projectName2').toggle();
+	});
+	jQuery('div.project3').hover(function() {
+		jQuery('div.projectName3').toggle();
+	});
+	jQuery('div.project4').hover(function() {
+		jQuery('div.projectName4').toggle();
+	});
+	jQuery('div.project5').hover(function() {
+		jQuery('div.projectName5').toggle();
+	});
+	jQuery('div.project6').hover(function() {
+		jQuery('div.projectName6').toggle();
+	});
+	jQuery('div.project7').hover(function() {
+		jQuery('div.projectName7').toggle();
+	});
+	jQuery('div.project8').hover(function() {
+		jQuery('div.projectName8').toggle();
+	});
 });

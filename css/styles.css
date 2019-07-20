@@ -62,7 +62,7 @@ h5:hover {
 	font-weight: bolder;
 }
 
-.project1 {
+.projectName1, .projectName2, .projectName3, .projectName4, .projectName5, .projectName6, .projectName7, .projectName8 {
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -73,13 +73,6 @@ h5:hover {
 
 h6 {
 	border-radius: 3px;
-}
-.opaque1 {
-  opacity: 0.7;
-}
-
-.opaque2 {
-	opacity: 0.7;
 }
 
 
