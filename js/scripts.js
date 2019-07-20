@@ -7,8 +7,11 @@ jQuery(document).ready(function () {
 		jQuery('#dev-text').toggle();
 		jQuery('#dev-img').toggle();
 	});
-	$('div#product').click(function() {
-		$('#product-text').toggle();
-		$('#product-img').toggle();
-	});	
+	jQuery('div#product').click(function () {
+		jQuery('#product-text').toggle();
+		jQuery('#product-img').toggle();
+	});
+	jQuery('img.img1').hover(function () {
+		jQuery(this).toggleClass('opaque1');
+	});
 });
