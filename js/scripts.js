@@ -45,6 +45,3 @@ jQuery(document).ready(function () {
 		//		document.getElementById('contact-form').reset();
 	})
 });
-
-
-

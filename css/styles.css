@@ -39,6 +39,7 @@ body {
 .form-control {
 	background-color: transparent;
 	border-radius: 0;
+	color: white;
 }
 
 .form-control::placeholder {
@@ -66,7 +67,8 @@ h5:hover {
 	font-weight: bolder;
 }
 
-.projectName1, .projectName2, .projectName3, .projectName4, .projectName5, .projectName6, .projectName7, .projectName8 {
+.projectName1, .projectName2, .projectName3, .projectName4, .projectName5, .projectName6, .projectName7, .projectName8
+ {
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -78,5 +80,4 @@ h5:hover {
 h6 {
 	border-radius: 3px;
 }
-
 
