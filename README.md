@@ -7,8 +7,7 @@ This is a landing page for a fictional website design and development studio. It
 ## Setup/Installation Requirements
 All the code used is available for viewing on this repository. You can copy and paste it to your own folder then run the html file on your browser. Alternatively, you can also fork this repository then clone the documents. 
 ## Known Bugs
-Integration with the Mailchimp API is not yet working. There should be social media icons at the bottom of the page but they are currently not displaying because the latest commit information has failed to load onto Github.
-![Github issue](img/Github-issue.png)
+Integration with the Mailchimp API is not yet working.
 ## Technologies Used
 I used HTML, CSS, Javascript and jQuery.
 ## Support and contact details
