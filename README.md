@@ -7,9 +7,9 @@ This is a landing page for a fictional website design and development studio. It
 ## Setup/Installation Requirements
 All the code used is available for viewing on this repository. You can copy and paste it to your own folder then run the html file on your browser. Alternatively, you can also fork this repository then clone the documents. 
 ## Known Bugs
-
+No know bugs at the time of publishing.
 ## Technologies Used
-I used HTML, CSS, Javascript and jQuery.
+I used HTML, CSS, Javascript and jQuery. Mailchimp integration is also present.
 ## Support and contact details
 If you run into any issues or would like to make a contribution to the work kindly email me at kpndegwa@gmail.com
 ### License
